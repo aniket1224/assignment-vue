@@ -15,7 +15,7 @@
 
   <footer>
     <a class="active" href="#home"><img src="./assets/github_1.png" alt="github" width="40" height="40"></a>
-    <p>&copy; All rights reserved, 2022</p>
+    <p>&copy; All rights reserved, 2023</p>
   </footer>  
 </template>
 
